@@ -8,7 +8,7 @@ digital world and enjoy what I do<img width=30 src="https://github.com/m-honarza
 <a  title="Download Resume" href='https://github.com/m-honarzade/m-honarzade/blob/main/resume/MahdiehHonarzadehResume-v2.pdf' target="_blank" rel="noreferrer" >
 <img src="https://custom-icon-badges.demolab.com/badge/-Download CV-01796f?style=for-the-badge&logo=download&logoColor=white"/>
 </a> 
-<a  title="Download Resume" href='https://github.com/m-honarzade/m-honarzade/blob/main/resume/MahdiehHonarzadehResume-v2.pdf' target="_blank" rel="noreferrer" ><img src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-2d2e2d?style=for-the-badge&logo=heart&logoColor=DB7093"/>
+<a  title="Download Resume" href='https://mahdieh-portfolio.netlify.app/portfolio' target="_blank" rel="noreferrer" ><img src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-2d2e2d?style=for-the-badge&logo=heart&logoColor=DB7093"/>
 </a>
 
 
