@@ -6,15 +6,9 @@
 experience of the web for users.I create entities which live on
 digital world and enjoy what I do. Also I am a teacher. I like to learn and teach.</p>
 
-<a
-          title="Download Resume"
-          href='./resume/MahdiehHonarzadehResume-v2'
-          target="_blank"
-          rel="noreferrer"
-          
-        >
+<a  title="Download Resume" href='./resume/MahdiehHonarzadehResume-v2' target="_blank" rel="noreferrer" >
          <img src="https://custom-icon-badges.demolab.com/badge/-Download CV-01796f?style=for-the-badge&logo=download&logoColor=white"/>
-        </a>
+</a>
 
 
 
