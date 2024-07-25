@@ -1,7 +1,7 @@
 
 
 
-## About Me. <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/1721940555989_20240726_001919670.jpg?raw=true" width=100 align="right"/>
+## About Me. <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/1721940555989_20240726_001919670.jpg?raw=true" width=200 align="right"/>
 
 <p style=" " >Hello! My name is Mahdieh. 
 <br /><br /> I'm a Frontend Web Developer building the Front-end of Websites and Web Applications that leads to a good digital
