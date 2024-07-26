@@ -15,5 +15,11 @@ digital world and enjoy what I do<img width=30 src="https://github.com/m-honarza
 <img src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-2d2e2d?style=for-the-badge&logo=heart&logoColor=DB7093"/>
 </a>
 
+## My Skills. 
+
+<img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-html-5-48.png?raw=true" width=35/>
+
+
+
 
 
