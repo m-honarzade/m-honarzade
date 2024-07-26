@@ -17,7 +17,7 @@ digital world and enjoy what I do<img width=30 src="https://github.com/m-honarza
 
 ## My Skills. 
 
-<img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-html-5-48.png?raw=true" width=35/>
+<img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-html-5-48.png?raw=true" width=35/>    <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-css-48.png?raw=true" width=35/>    <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-javascript-48.png?raw=true" width=35/>     <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-react-30.png?raw=true" width=35/>    <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-redux-48.png?raw=true" width=35/>    <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-tailwind-css-48.png?raw=true" width=35/>    <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-git-48.png?raw=true" width=35/>    <img src="https://github.com/m-honarzade/m-honarzade/blob/main/images/icons8-github-48.png?raw=true" width=35/>
 
 
 
