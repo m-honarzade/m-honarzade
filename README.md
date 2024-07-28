@@ -20,7 +20,7 @@ digital world and enjoy what I do<img width=30 src="https://github.com/m-honarza
 <img src="https://custom-icon-badges.demolab.com/badge/Html-F5F5DC.svg?logo=html" height=25/>  <img src="https://custom-icon-badges.demolab.com/badge/Css-00BFFF.svg?logo=css" height=25/> <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-white.svg?logo=js" height=25/>  <img src="https://custom-icon-badges.demolab.com/badge/Redux-008080.svg?logo=redux" height=25/> <img src="https://custom-icon-badges.demolab.com/badge/React%20js-FFD700.svg?logo=react" height=25/>
 <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-F08080.svg?logo=tailwind" height=25/> <img src="https://custom-icon-badges.demolab.com/badge/Git-purple.svg?logo=git-branch" height=25/> <img src="https://custom-icon-badges.demolab.com/badge/Github-696969.svg?logo=github" height=25/> 
 
-#### Learning:
+### Learning :
 <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-FAFAD2.svg?logo=typescript" height=25/>
 
 
